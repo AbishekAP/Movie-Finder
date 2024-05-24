@@ -102,11 +102,13 @@ main {
 }
  .search-container .input-wrapper button{
     width: 10%;
+    height:100%:
     font-size: 1rem;
     color: var(--light);
     background: transparent;
     border: none;
     outline: none;
+    cursor:pointer;
 }
  .search-container .input-wrapper button:active{
     color: var(--dark);
